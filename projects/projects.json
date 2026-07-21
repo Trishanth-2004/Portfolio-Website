@@ -1,0 +1,23 @@
+[
+  {
+    "name": "NLP Based Recognition of False Bulletin with Hybrid Machine Learning Methodologies",
+    "desc": "Developed a hybrid machine learning-based fake news detection system using NLP techniques. Built a Flask web application for verifying news articles.",
+    "image": "Fake",
+    "category": ".ml",
+    "github": "https://github.com/Trishanth-2004/NLP-BASED-RECOGNITION-OF-FALSE-BULLETIN-WITH-HYBRID-MACHINE-LEARNING-METHODOLOGIES"
+  },
+  {
+    "name": "Bank Management System",
+    "desc": "Developed a Java-based banking application using JDBC and Oracle Database with account management and transaction features.",
+    "image": "Bank",
+    "category": ".java",
+    "github": "https://github.com/Trishanth-2004/Bank_Management_System_By_Using_JDBC"
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Designed and developed a responsive personal portfolio website with interactive UI and EmailJS integration.",
+    "image": "portfolio",
+    "category": ".web",
+    "github": "https://github.com/Trishanth-2004/Portfolio-Website"
+  }
+]
